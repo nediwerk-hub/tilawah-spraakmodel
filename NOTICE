@@ -1,0 +1,7 @@
+This release redistributes a Core ML conversion of
+"tarteel-ai/whisper-base-ar-quran" (Tarteel AI), licensed under the Apache
+License, Version 2.0, which is itself a fine-tuned version of OpenAI's Whisper
+(base), also Apache License 2.0. Tokenizer files originate from
+"openai/whisper-base". Conversion performed with whisperkittools (Argmax Inc.,
+MIT License). No changes were made to the model weights other than conversion
+to the Core ML format.
